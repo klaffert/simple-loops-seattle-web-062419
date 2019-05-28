@@ -8,6 +8,8 @@ def loop_iterator(number_of_times)
     puts phrase 
     if counter >= 7 
       break
+    end
+  end
 end
 
 def times_iterator(number_of_times)
